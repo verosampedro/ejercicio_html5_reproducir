@@ -1,0 +1,161 @@
+h1 {
+    text-align: center;
+    }
+
+body { 
+    background-image: url(Fondo.jpg);
+    }
+
+#background_colors {
+        padding: 0 30%;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1.2fr 0.75fr 1.2fr 1fr;
+    }
+
+    .background_black {
+        background-color: black;
+        }
+    
+    .background_teal {
+        background-color: teal;
+        }
+    
+    .background_blue {
+        background-color: blue;
+        }
+    
+    .background_navy {
+        background-color: navy;
+        }
+    
+    .background_lime {
+        background-color: lime;
+        }
+    
+    .background_white {
+        background-color: white;
+        }
+    
+    .background_purple {
+        background-color: purple;
+        }
+    
+    .background_yellow {
+        background-color: yellow;
+        }
+    
+    .background_olive {
+        background-color: olive;
+        }
+    
+    .background_red {
+        background-color: red;
+        }
+    
+    .background_gray {
+        background-color: gray;
+        }
+    
+    .background_fuchsia {
+        background-color: fuchsia;
+        }
+    
+    .background_green {
+        background-color: green;
+        grid-column-start: 4;
+        grid-column-end: 7;
+        }
+
+    .background_header {
+            background-color: green;
+            grid-column-start: 1;
+            grid-column-end: 7;
+        }
+        
+    .background_header p {
+            text-align: center;
+            margin: 0;
+            margin-bottom: 2rem;
+        }
+
+#color_names {
+    text-align: center;
+    }
+        
+#color_names p{
+    margin: 5px;
+    text-align: justify;
+    display: inline;
+    font-size: 30px;
+    }
+
+    .color_name {
+        display: inline;
+        }
+    
+    .color_black {
+        color: black;
+        }
+
+    .color_teal{
+        color: teal;
+        }
+
+    .color_blue{
+        color: blue;
+        }
+
+    .color_navy{
+        color: navy;
+        }
+
+    .color_lime{
+        color: lime;
+        }
+
+    .color_white{
+        color: white;
+        }
+
+    .color_purple{
+        color: purple;
+        }
+
+    .color_yellow{
+        color: yellow;
+        }
+
+    .color_olive{
+        color: olive;
+        }
+
+    .color_red{
+        color: red;
+        }
+
+    .color_maroon{
+        color: maroon;
+        }
+
+    .color_gray{
+        color: gray;
+        }
+
+    .color_fuchsia{
+        color: fuchsia;
+        }
+
+    .color_green{
+        color: green;
+        }
+
+    .color_aqua{
+        color: aqua;
+        }
+
+    .color_silver{
+        color: silver;
+        }  
+
+
+
